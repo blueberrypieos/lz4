@@ -1,0 +1,3 @@
+# The top-level LICENSE only says which licence covers which directory.
+# The build never reads it. lib/LICENSE covers the files it builds.
+LICENSE
